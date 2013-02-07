@@ -1,4 +1,3 @@
-Assignment2
-===========
-
-Assignment2
+Daniel Clayton
+ddc27@pitt.edu
+Assignment 2
