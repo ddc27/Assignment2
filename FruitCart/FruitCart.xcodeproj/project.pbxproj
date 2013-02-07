@@ -21,9 +21,8 @@
 		555E433C16B852FF00696EF1 /* Fruit.m in Sources */ = {isa = PBXBuildFile; fileRef = 555E433616B852FF00696EF1 /* Fruit.m */; };
 		555E433D16B852FF00696EF1 /* Apple.m in Sources */ = {isa = PBXBuildFile; fileRef = 555E433816B852FF00696EF1 /* Apple.m */; };
 		555E433E16B852FF00696EF1 /* GoldDelicious.m in Sources */ = {isa = PBXBuildFile; fileRef = 555E433B16B852FF00696EF1 /* GoldDelicious.m */; };
-		CEB7335216C3B394004121FD /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = CEB7335116C3B394004121FD /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png */; };
+		CE01B82716C45D8A00D94534 /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = CE01B82616C45D8A00D94534 /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png */; };
 		CEC0BB5916C0D3B3007FF333 /* Vegetable.m in Sources */ = {isa = PBXBuildFile; fileRef = CEC0BB5816C0D3B3007FF333 /* Vegetable.m */; };
-		CEC0BB5C16C0D498007FF333 /* Potato.m in Sources */ = {isa = PBXBuildFile; fileRef = CEC0BB5B16C0D498007FF333 /* Potato.m */; };
 		CEC0BB5F16C0D4B2007FF333 /* Onion.m in Sources */ = {isa = PBXBuildFile; fileRef = CEC0BB5E16C0D4B2007FF333 /* Onion.m */; };
 		CEC0BB6216C0D4C0007FF333 /* Pumpkin.m in Sources */ = {isa = PBXBuildFile; fileRef = CEC0BB6116C0D4C0007FF333 /* Pumpkin.m */; };
 /* End PBXBuildFile section */
@@ -51,11 +50,10 @@
 		555E433916B852FF00696EF1 /* Fruit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fruit.h; sourceTree = "<group>"; };
 		555E433A16B852FF00696EF1 /* GoldDelicious.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoldDelicious.h; sourceTree = "<group>"; };
 		555E433B16B852FF00696EF1 /* GoldDelicious.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoldDelicious.m; sourceTree = "<group>"; };
-		CEB7335116C3B394004121FD /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png"; path = "../../Desktop/iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png"; sourceTree = "<group>"; };
+		CE01B82616C45D8A00D94534 /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png"; path = "../iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png"; sourceTree = "<group>"; };
 		CEC0BB5716C0D3B3007FF333 /* Vegetable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vegetable.h; sourceTree = "<group>"; };
 		CEC0BB5816C0D3B3007FF333 /* Vegetable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Vegetable.m; sourceTree = "<group>"; };
 		CEC0BB5A16C0D498007FF333 /* Potato.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Potato.h; sourceTree = "<group>"; };
-		CEC0BB5B16C0D498007FF333 /* Potato.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Potato.m; sourceTree = "<group>"; };
 		CEC0BB5D16C0D4B2007FF333 /* Onion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Onion.h; sourceTree = "<group>"; };
 		CEC0BB5E16C0D4B2007FF333 /* Onion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Onion.m; sourceTree = "<group>"; };
 		CEC0BB6016C0D4C0007FF333 /* Pumpkin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pumpkin.h; sourceTree = "<group>"; };
@@ -79,7 +77,7 @@
 		555E430716B84E1D00696EF1 = {
 			isa = PBXGroup;
 			children = (
-				CEB7335116C3B394004121FD /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png */,
+				CE01B82616C45D8A00D94534 /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png */,
 				555E431916B84E1D00696EF1 /* FruitCart */,
 				555E431216B84E1D00696EF1 /* Frameworks */,
 				555E431116B84E1D00696EF1 /* Products */,
@@ -152,7 +150,6 @@
 				CEC0BB5D16C0D4B2007FF333 /* Onion.h */,
 				CEC0BB5E16C0D4B2007FF333 /* Onion.m */,
 				CEC0BB5A16C0D498007FF333 /* Potato.h */,
-				CEC0BB5B16C0D498007FF333 /* Potato.m */,
 				CEC0BB6016C0D4C0007FF333 /* Pumpkin.h */,
 				CEC0BB6116C0D4C0007FF333 /* Pumpkin.m */,
 				CEC0BB5716C0D3B3007FF333 /* Vegetable.h */,
@@ -217,7 +214,7 @@
 				555E432816B84E1E00696EF1 /* Default@2x.png in Resources */,
 				555E432A16B84E1E00696EF1 /* Default-568h@2x.png in Resources */,
 				555E433016B84E1E00696EF1 /* ViewController.xib in Resources */,
-				CEB7335216C3B394004121FD /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png in Resources */,
+				CE01B82716C45D8A00D94534 /* iOS Simulator Screen shot Feb 7, 2013 5.03.43 AM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,7 +232,6 @@
 				555E433D16B852FF00696EF1 /* Apple.m in Sources */,
 				555E433E16B852FF00696EF1 /* GoldDelicious.m in Sources */,
 				CEC0BB5916C0D3B3007FF333 /* Vegetable.m in Sources */,
-				CEC0BB5C16C0D498007FF333 /* Potato.m in Sources */,
 				CEC0BB5F16C0D4B2007FF333 /* Onion.m in Sources */,
 				CEC0BB6216C0D4C0007FF333 /* Pumpkin.m in Sources */,
 			);
